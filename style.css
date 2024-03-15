@@ -1,0 +1,15 @@
+img{
+    width: 200px;
+    height: 250px;
+}
+.anasayfa:hover{
+    background-color: rgb(154, 147, 138);
+    color:white;
+    padding: 10px;
+    
+
+}
+.header{
+    position: sticky;
+    top:0px;
+}
